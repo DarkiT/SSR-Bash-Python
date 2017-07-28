@@ -30,22 +30,22 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 - 未设置开机启动
 
 ## 安装 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/install.sh && bash install.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/DarkiT/SSR-Bash-Python/master/install.sh && bash install.sh
 
 ## 卸载 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/DarkiT/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
     
 ## 自检 ##
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/DarkiT/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
 
 ## 截图 ##
-![https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/1.png](1.png)
+![https://raw.githubusercontent.com/DarkiT/SSR-Bash-Python/master/1.png](1.png)
 
-![https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/2.png](2.png)
+![https://raw.githubusercontent.com/DarkiT/SSR-Bash-Python/master/2.png](2.png)
 
 ## 参考资料 ##
-[ShadowsocksR](https://github.com/FunctionClub/shadowsocksr)
+[ShadowsocksR](https://github.com/DarkiT/shadowsocksr)
 
 [ShadowsocksR-manyuser mudbjson](https://github.com/breakwa11/shadowsocks-rss/wiki/Server-Setup(manyuser-with-mudbjson))
 
-[SSR-Bash](https://github.com/FunctionClub/SSR-Bash)
+[SSR-Bash](https://github.com/DarkiT/SSR-Bash)
