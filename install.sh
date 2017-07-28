@@ -67,7 +67,7 @@ fi
 cd /usr/local
 git clone https://github.com/DarkiT/shadowsocksrnew.git
 git clone https://github.com/DarkiT/SSR-Bash-Python.git
-cd /usr/local/shadowsocksr
+cd /usr/local/shadowsocksrnew
 bash initcfg.sh
 
 #Install Libsodium
